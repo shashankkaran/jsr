@@ -1,0 +1,52 @@
+*{
+    
+}
+#aa{
+
+}
+#top{
+    background-color: black;
+}
+.navbar-brand{
+    font-family: Brush Script MT;
+   
+   position: relative;
+   left:2%;
+   
+}
+.container-fluid{
+background-color: aqua;
+border-radius: 1rem;
+}
+#nitjsr{
+    position: relative;
+    top: 20px;
+}
+.navbar-content{
+position: absolute;
+float: right;
+padding: 1rem;
+margin: 1rem;
+
+
+}
+
+a{
+    padding: 1%;
+}
+
+#cal{
+    position: relative;
+    float: right;
+    
+}
+h2{
+  margin: top 20px;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+color:blueviolet;
+}
+#middle{
+    background-color: black;
+}
